@@ -1,3 +1,36 @@
 generaly instructions. 
 
+https://nodeschool.io/
 
+install nodejs, easier with NVM. 
+
+then you get NPM, which you use to install other modules. 
+
+all of CORE
+npm install -g learnyounode
+npm install -g javascripting
+npm install -g how-to-npm
+npm install -g elementary-electron
+npm install -g stream-adventure
+npm install -g how-to-markdown
+npm install -g learnyouhtml
+
+functional javascript 
+npm install -g shader-school
+npm install -g functional-javascript-workshop
+npm install -g bytewiser
+npm install -g levelmeup
+npm install -g bug-clinic
+npm install -g expressworks
+npm install -g promise-it-wont-hurt
+npm install -g count-to-6
+npm install -g async-you
+npm install -g lololodash
+npm install -g planetproto
+npm install -g learnyoureact
+npm install -g thinking-in-reac
+npm install -g regex-adventure
+npm install -g less-is-more
+npm install -g js-best-practices
+npm i @workshoppers/scope-chains-closures -g
+scope-chains-closures
